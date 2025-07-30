@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+}
+.text-color{
+    color:white;
+
+}
+.float-right{
+    float: right;
+}
+.div-clear{
+    clear: both;
+}
+.hero{
+    background-image:url(images\Untitled.jpeg);
+    width: 100%;
+
+
+
+}
+
+ul.style li{
+    width:;
+    margine:;
+    list-style: none;
+.continer{
+    width:80% ;
+}
