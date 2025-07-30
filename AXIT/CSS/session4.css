@@ -8,7 +8,7 @@ a{
     text-decoration: none;
 }
 .text-color{
-    color:white;
+    color:black;
 
 }
 .float-right{
@@ -18,17 +18,11 @@ a{
     clear: both;
 }
 .hero{
-    background-image:url(images\Untitled.jpeg);
+    background-image:url(../images/Untitled.jpeg);
     width: 100%;
 
 
 
 }
 
-ul.style li{
-    width:;
-    margine:;
-    list-style: none;
-.continer{
-    width:80% ;
-}
+ 
