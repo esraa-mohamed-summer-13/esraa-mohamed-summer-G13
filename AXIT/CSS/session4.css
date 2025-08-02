@@ -102,13 +102,13 @@ width:80%;
         margin-bottom:10%;
         margin-top:10%;
     }
-    
+
 
 .d-button{
 background-color: transparent;
 margin: 10% 0;
 color:white;
-border-width: 2px ;
+border: 1px solid;
 border-color: white;
 height:25px;
 width:80px;
